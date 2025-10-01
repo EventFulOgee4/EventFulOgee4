@@ -31,8 +31,6 @@ Git & GitHub 🔗 | VS Code | IntelliJ | Eclipse | Linux | Docker | Vite
   ### SonicRunner:
   #### An endless runner game featuring Sonic the Hedgehog using JavaScript and the Kaplay game development library.
 
-📊 Logic Problem Sets & Symbolization – Work on functional completeness, CNF/DNF, quantification with identity, and other advanced logic concepts.
-
 ## 🌟 Interests Beyond Coding
 
 🤖 Robotics & Engineering – fascinated by building intelligent systems
