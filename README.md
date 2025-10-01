@@ -1,4 +1,4 @@
-Hi there 👋, I’m Javad
+#Hi there 👋, I’m Javad
 
 🎓 Student | Aspiring AI/ML Engineer | Software Developer
 🌍 Based in Canada | Passionate about AI, Theoretical CS/Math, and Robotics
