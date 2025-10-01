@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-📚 Currently studying SpringBoot, Data Science, Machine Learning
+📚 Currently studying SpringBoot🍃 | PyTorch 🔥 | PySpark✨
 
 🧠 Deeply interested in Artificial Intelligence, Machine Learning, Data Science, and Robotics
 
