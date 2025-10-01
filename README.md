@@ -25,9 +25,11 @@ Git & GitHub 🔗 | VS Code | IntelliJ | Eclipse | Linux | Docker | Vite
 
 ## 📌 Notable Projects
 
-  Eng-Master - A fully functional API based web application using ClaudeAPI for generating the best engineering project for you based on your tools.
+  ### Eng-Master: 
+  #### A fully functional API based web application using ClaudeAPI for generating the best engineering project for you based on your tools.
 
-  SonicRunner -  an endless runner game featuring Sonic the Hedgehog using JavaScript and the Kaplay game development library.
+  ### SonicRunner:
+  #### An endless runner game featuring Sonic the Hedgehog using JavaScript and the Kaplay game development library.
 
 📊 Logic Problem Sets & Symbolization – Work on functional completeness, CNF/DNF, quantification with identity, and other advanced logic concepts.
 
