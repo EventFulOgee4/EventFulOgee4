@@ -1,56 +1,44 @@
-## Hi there 👋, I’m Javad
+# Hi there 👋, I’m Javad
 
 🎓 Student | Aspiring AI/ML Engineer | Software Developer
 🌍 Based in Canada | Passionate about AI, Theoretical CS/Math, and Robotics
 
-🚀 About Me
+## 🚀 About Me
 
-💻 Former Software Developer Intern @ Kapital Bank
+📚 Currently studying SpringBoot, Data Science, Machine Learning
 
-📚 Currently studying Computer Science, Mathematics, and Engineering concepts
-
-🧠 Deeply interested in Artificial Intelligence, Machine Learning, Theoretical Computer Science, and Robotics
-
-🌱 Actively learning advanced topics like Discrete Math, Data Structures, Algorithms, and Multivariable Calculus
-
-🌍 Volunteering as an Ecological Activist, advocating for sustainability and environmental awareness
+🧠 Deeply interested in Artificial Intelligence, Machine Learning, Data Science, and Robotics
 
 🛠️ Tech Stack
 
-Languages:
+### Languages:
 
-Python 🐍 | Java ☕ | C++ ⚡ | C 🔧 | JavaScript 🌐 | HTML5 | CSS3
+Python 🐍 | Java ☕ | C++ ⚡ | C 🔧 | JavaScript 🌐 | HTML5 | CSS3 | SQL
 
-Frameworks & Libraries:
+### Frameworks & Libraries:
 
 ReactJS ⚛️ | NumPy 📊 | TailwindCSS 🎨
 
-Tools & Platforms:
+### Tools & Platforms:
 
-Git & GitHub 🔗 | VS Code | IntelliJ | Eclipse | Linux
+Git & GitHub 🔗 | VS Code | IntelliJ | Eclipse | Linux | Docker | Vite
 
-📌 Notable Projects
+## 📌 Notable Projects
 
-🏋️ Fitness Tracker (JavaFX) – Full-featured desktop app with GUI & CLI entry points, user authentication, and tracking of meals, workouts, hydration, and sleep.
-
-🌱 Mochi’s Bamboo Finder (C program) – Randomized 2D grid simulation, implementing search algorithms to locate and analyze forest resources.
+  Eng-Master - A fully functional API based web application using ClaudeAPI for generating the best engineering project for you based on your tools.
 
 📊 Logic Problem Sets & Symbolization – Work on functional completeness, CNF/DNF, quantification with identity, and other advanced logic concepts.
 
-📈 GitHub Stats
-
-🌟 Interests Beyond Coding
+## 🌟 Interests Beyond Coding
 
 🤖 Robotics & Engineering – fascinated by building intelligent systems
 
 🔬 Theoretical CS & Math – exploring abstract concepts and problem-solving
 
-🌍 Environmental Activism – contributing to a sustainable future
+## 📫 Let’s Connect
 
-📫 Let’s Connect
+💼 LinkedIn: https://www.linkedin.com/in/javad-mammadaliyev-a00700334/
 
-💼 LinkedIn
-
-📧 Email: [your email here]
+📧 Email: cavadmamedaliev@gmail.com
 
 ✨ “The best way to predict the future is to build it.” – Alan Kay
